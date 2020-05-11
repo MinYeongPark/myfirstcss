@@ -1,0 +1,19 @@
+html,
+body{
+    heigth: 100%;
+}
+h1{
+    font-size:70px; color:yellowgreen;
+    line-height:0;
+}
+h2{
+    font-size:30px; color:yellowgreen;
+}
+p{
+    font-size:13px;
+    color:black;
+    line-height:2;
+}
+img{
+    max-width:100%
+}
